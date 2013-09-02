@@ -1,0 +1,168 @@
+/*
+    CSS
+*/
+
+body {
+    font-family:'Segoe UI', 'Arial Unicode MS', Arial, Tahoma;
+    font-size:14px; line-height:1.5em;
+	vertical-align:top;
+}
+
+li {
+	vertical-align:top;
+}
+
+.printarea {
+    border: #cecece 0px solid;
+    margin:0; padding:0;
+    width:660px;
+}
+
+.o-logo {
+    width: 48px; height:48px;
+    border: #FFFFFF 1px solid;
+    float:left; 
+}
+
+.o-logo img {
+    width: 48px; height:48px;
+}
+
+.doctext {
+    width: 610px;
+    float: right;
+    text-align: left;
+}
+
+.o-fname {
+	color: #999999;
+	font-size:13px;
+}
+
+ul.ului {
+	margin:0; padding:0;
+	list-style: none;
+}
+
+.bordertop {
+	border-top: 1px solid #000000;
+}
+
+.borderbottom {
+	border-bottom: 1px solid #000000;
+}
+
+.borderbottom-dotted {
+	border-bottom: 1px dotted #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight:normal;
+	line-height:1em;
+	margin-bottom: 10px;
+}
+
+.copytype {
+	margin-top:28px;
+	font-size:16px;
+}
+
+/* ------- for print ---- */
+
+.span1 {
+	display:inline-block;
+	width:60px;
+	margin-right:20px;
+}
+.span2 {
+	display:inline-block;
+	width:140px;
+	margin-right:20px;
+}
+.span3 {
+	display:inline-block;
+	width:220px;
+	margin-right:20px;
+}
+.span4 {
+	display:inline-block;
+	width:300px;
+	margin-right:20px;
+}
+.span5 {
+	display:inline-block;
+	width:380px;
+	margin-right:20px;
+}
+.span6 {
+	display:inline-block;
+	width:460px;
+	margin-right:20px;
+}
+.span7 {
+	display:inline-block;
+	width:540px;
+	margin-right:20px;
+}
+.span8 {
+	display:inline-block;
+	width:610px;
+	margin-right:0px;
+}
+
+
+
+
+.datafield {
+	color:royalblue;
+}
+
+ul.forlist {
+	margin: 1em 0;
+	padding:0 0 0 2em;
+	list-style:disc;
+}
+
+
+
+
+.clearboth {
+	clear: both;
+}
+
+.floatright {
+	float:right;
+	margin-right:0;
+}
+
+.floatleft {
+	float:left;
+}
+
+.al-right {
+	text-align: right;
+}
+
+.al-left {
+	text-align: left;
+}
+
+.al-center {
+	text-align: center;
+}
+
+.nomargin {
+	margin:0;
+}
+
+.listnone {
+	list-style:none;
+}
+
+.inlineblock {
+	display:inline-block
+}
+
+.block {
+	display:block;
+}
